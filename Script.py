@@ -50,16 +50,16 @@ Here is the help for my COMMANDS."""
 ➪ Send me a photo and reply that photo with cmd /slt or /set_lazy_thumb or /set_lazy_thumbnail
 
 🧬 How to show normal thumbnail
-➪ Send /vt or /veiw_thumb or /view_thumbnail
+➪ Send /vt
 
 🧬 How to show url thumbnail
-➪ Send /vlt or /veiw_lazy_thumb or /view_lazy_thumbnail
+➪ Send /vlt
 
 🧬 How To Delete normal Thumbnail
 ➪ Send /dt or /del_thumb or /delete_thumb
 
 🧬 How To Delete URL Thumbnail
-➪ Send /dlt or /del_lazy_thumb or /delete_lazy_thumb
+➪ Send /dlt 
 
 🧬 How to Rename any Media
 ➪ Send me a video or document i will provide you renaming function
@@ -69,20 +69,18 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MovieMasala_Update>Movie Masala</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v10.0.0 [ 𝙱𝙴𝚃𝙰 ]"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- Lazy Princess is an open source project. 
-- Source - https://github.com/LazyDeveloperr/LazyPrincess  
-- Please give a star to this repo after fork. Salute to <a href=https://t.me/LazyDeveloperr>LazyDeveloper</a> for adding extra features in me.
+- Sorry.
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
+- 🦋 <a href=https://t.me/MovieMasala_Update>Movie Masala</a> 🦋"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
